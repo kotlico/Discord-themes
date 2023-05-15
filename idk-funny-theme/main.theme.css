@@ -14,9 +14,9 @@
     background: var(--1-background);
 }
 .theme-dark .container-1NXEtd {
-    background: var(--2-background);
+    background: var(--2-background) !important;
     border-top-left-radius: 8px;
 }
 .wrapper-1_HaEi {
-    background: var(--1-background);
+    background: var(--1-background) !important;
 }
