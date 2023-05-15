@@ -5,10 +5,18 @@
 
 :root {
     --1-background: #0d0f18;
+    --2-background: #0b0d16;
 }
 
 * {font-family: 'Space Mono', monospace !important;}
 
 .chatContent-3KubbW {
+    background: var(--1-background);
+}
+.theme-dark .container-1NXEtd {
+    background: var(--2-background);
+    border-top-left-radius: 8px;
+}
+.wrapper-1_HaEi {
     background: var(--1-background);
 }
