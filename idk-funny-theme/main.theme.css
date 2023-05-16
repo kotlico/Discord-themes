@@ -50,7 +50,7 @@
 }
 
 .barBase-3xxDXu {
-    left: 0;
+    left: auto;
     right: 16px;
 }
 .barButtonMain-2GIx4o, .span-3lFnWr {
@@ -58,4 +58,7 @@
 }
 .jumpToPresentBar-1cEnH0 {
     background-color: var(--1-outline);
+}
+.theme-dark .form-3gdLxP:before {
+    background: none;
 }
