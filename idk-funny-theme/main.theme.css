@@ -48,3 +48,14 @@
     border-color: var(--1-outline);
     border-style: solid;
 }
+
+.barBase-3xxDXu {
+    left: 0;
+    right: 16px;
+}
+.barButtonMain-2GIx4o, .span-3lFnWr {
+    display: none;
+}
+.jumpToPresentBar-1cEnH0 {
+    background-color: var(--1-outline);
+}
