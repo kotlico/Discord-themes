@@ -9,6 +9,7 @@
     --3-background: #0f111a;
     --1-fore: #a5b6cf;
     --1-outline: #30363d;
+    --1-button-color: #86aaec;
 }
 
 * {font-family: 'Space Mono', monospace !important;}
@@ -64,4 +65,10 @@
 }
 .layer-86YKbF.baseLayer-W6S8cY {
     background-color: var(--2-background);
+}
+.communityInfoVisible-3zc5_s .communityInfo-3YsNIn {
+    color: var(--1-button-color);
+}
+.communityInfoPill-2Mll66 {
+    background: var(--1-background);
 }
