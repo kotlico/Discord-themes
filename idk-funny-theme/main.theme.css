@@ -6,6 +6,7 @@
 :root {
     --1-background: #0d0f18;
     --2-background: #0b0d16;
+    --3-background: #0f111a;
 }
 
 * {font-family: 'Space Mono', monospace !important;}
@@ -15,8 +16,19 @@
 }
 .theme-dark .container-1NXEtd {
     background: var(--2-background) !important;
-    border-top-left-radius: 8px;
 }
 .wrapper-1_HaEi {
     background-color: var(--1-background) !important;
+}
+
+.sidebar-1tnWFu {
+    background: var(--2-background);
+}
+.panels-3wFtMD {
+    background: transparent;
+}
+.theme-dark .container-YkUktl {
+    background: var(--3-background);
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
 }
