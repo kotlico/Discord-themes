@@ -11,6 +11,7 @@
     --1-outline: #30363d;
     --1-button-color: #86aaec;
     --1-button-background: #1e2637;
+    --text-normal: #a5b6cf;
 }
 
 * {font-family: 'Space Mono', monospace !important;}
@@ -80,4 +81,16 @@
 .botTagRegular-kpctgU {
     background: var(--1-button-background);
     color: var(--1-button-color);
+}
+.theme-dark .themed-Hp1KC_ {
+    background: var(--1-background);
+}
+.searchBar-jGtisZ {
+    background: var(--3-background);
+    border-width: 1px;
+    border-color: var(--1-outline);
+    border-style: solid;
+}
+.markup-eYLPri {
+    color: var(--text-normal);
 }
