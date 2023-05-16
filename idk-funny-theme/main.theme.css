@@ -7,6 +7,8 @@
     --1-background: #0d0f18;
     --2-background: #0b0d16;
     --3-background: #0f111a;
+    --1-fore: #a5b6cf;
+    --1-outline: #30363d;
 }
 
 * {font-family: 'Space Mono', monospace !important;}
@@ -31,4 +33,18 @@
     background: var(--3-background);
     border-top-right-radius: 8px;
     border-top-left-radius: 8px;
+}
+.channelTextArea-1FufC0 {
+    background-color: transparent;
+}
+
+.scrollableContainer-15eg7h {
+    background: var(--3-background);
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    border-width: 1px;
+    border-color: var(--1-outline);
+    border-style: solid;
 }
