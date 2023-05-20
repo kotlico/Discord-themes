@@ -127,3 +127,14 @@
     border-width: 1px;
     border-color: rgba(0, 0, 0, 0.5);
 }
+.wrapper-2vIMkT {
+    box-shadow: none;
+    background: var(--2-background);
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.5);
+}
+.container-2o3qEW {
+    background: var(--2-background);
+}
