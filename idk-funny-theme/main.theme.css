@@ -94,3 +94,9 @@
 .markup-eYLPri {
     color: var(--text-normal);
 }
+.member-48YF_l, .members-3WRCEx {
+    background: var(--2-background);
+}
+.theme-dark .children-3xh0VB:after {
+    background: none;
+}
