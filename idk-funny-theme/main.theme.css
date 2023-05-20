@@ -11,7 +11,6 @@
     --1-outline: #30363d;
     --1-button-color: #86aaec;
     --1-button-background: #1e2637;
-    --text-normal: #a5b6cf;
 }
 
 * {font-family: 'Space Mono', monospace !important;}
@@ -92,7 +91,7 @@
     border-style: solid;
 }
 .markup-eYLPri {
-    color: var(--text-normal);
+    color: var(--1-fore);
 }
 .member-48YF_l, .members-3WRCEx {
     background: var(--2-background);
@@ -106,4 +105,8 @@
 }
 .content-1gYQeQ {
     border-radius: 2px 6px 6px 2px;
+}
+.childWrapper-1j_1ub {
+    background-color: var(--1-button-background);
+    color: var(--1-fore);
 }
