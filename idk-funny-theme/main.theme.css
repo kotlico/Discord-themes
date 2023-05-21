@@ -9,8 +9,9 @@
     --3-background: #0f111a;
     --1-fore: #a5b6cf;
     --1-outline: #30363d;
+    --2-outline: rgba(0, 0, 0, 0.5);
     --1-button-color: #86aaec;
-    --1-button-background: #1e2637;
+    --1-button-background: rgba(134, 170, 236, 0.15);
 }
 
 * {font-family: 'Space Mono', monospace !important;}
@@ -125,7 +126,7 @@
     border-radius: 8px;
     border-style: solid;
     border-width: 1px;
-    border-color: rgba(0, 0, 0, 0.5);
+    border-color: var(--2-outline);
 }
 .wrapper-2vIMkT {
     box-shadow: none;
@@ -133,8 +134,11 @@
     border-radius: 8px;
     border-style: solid;
     border-width: 1px;
-    border-color: rgba(0, 0, 0, 0.5);
+    border-color: var(--2-outline);
 }
 .container-2o3qEW {
     background: var(--2-background);
+}
+.folder-241Joy {
+    background-color: var(--1-button-background);
 }
