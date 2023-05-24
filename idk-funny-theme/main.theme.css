@@ -161,3 +161,9 @@
 .theme-dark .tooltipPrimary-2466a2 .tooltipPointer-sMBQqe, .theme-light .tooltipPrimary-2466a2 .tooltipPointer-sMBQqe {
     border-top-color: var(--2-outline);
 }
+.auto-2TJ1RH::-webkit-scrollbar-thumb {
+    background-color: var(--3-background);
+}
+.auto-2TJ1RH::-webkit-scrollbar-track {
+    background-color: var(--2-background);
+}
