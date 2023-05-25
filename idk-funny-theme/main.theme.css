@@ -167,3 +167,13 @@
 .auto-2TJ1RH::-webkit-scrollbar-track {
     background-color: var(--2-background);
 }
+.container-q97qHp {
+    color: var(--1-fore);
+}
+.membersGroup-2eiWxl {
+    padding: 5px;
+    height: auto;
+    background: var(--3-background);
+    border-radius: 6px;
+    margin: 8px;
+}
