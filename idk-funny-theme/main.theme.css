@@ -1,4 +1,3 @@
-/* Credits to the Dicease for making theme Float */
 @import url(https://raw.githubusercontent.com/longjohnpeter/Discord-themes/master/Modules/fleet.css);
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
@@ -8,6 +7,7 @@
     --2-background: #0b0d16;
     --3-background: #0f111a;
     --1-fore: #a5b6cf;
+    --2-fore: #627bad;
     --1-outline: #30363d;
     --2-outline: #262831;
     --1-button-color: #86aaec;
@@ -235,4 +235,7 @@
 .button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
     background-color: var(--1-button-background);
     color: var(--1-button-color);
+}
+.cozy-VmLDNB .timestamp-p1Df1m {
+    color: var(--2-fore);
 }
