@@ -239,3 +239,18 @@
 .cozy-VmLDNB .timestamp-p1Df1m {
     color: var(--2-fore);
 }
+.clickable-ZD7xvu .icon-2xnN2Y {
+    color: var(--1-button-color);
+}
+.activity-2EQDZv {
+    color: var(--2-fore);
+}
+.wrapper-1HIH0j {
+    background: var(--1-button-background) !important;
+    border-radius: 8px;
+}
+
+.lookFilled-1H2Jvj.colorGreen-jIPCAS {
+    color: var(--2-background);
+    background-color: var(--1-button-color);
+}
