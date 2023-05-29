@@ -9,7 +9,7 @@
     --3-background: #0f111a;
     --1-fore: #a5b6cf;
     --1-outline: #30363d;
-    --2-outline: rgba(0, 0, 0, 0.5);
+    --2-outline: #262831;
     --1-button-color: #86aaec;
     --1-button-background: rgba(134, 170, 236, 0.15);
     --1-green: #90ceaa;
@@ -182,4 +182,18 @@
 }
 .wrapper-15CKyy {
     background: transparent;
+}
+.attachment-1PZZB2 {
+    background: var(--2-background);
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+}
+.embedFull-1HGV2S {
+    background: var(--2-background);
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
 }
