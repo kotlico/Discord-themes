@@ -211,3 +211,28 @@
 .mentioned-Tre-dv:before {
     background-color: var(--1-button-color);
 }
+
+.container-1zzFcN {
+    background: var(--3-background) !important;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+    margin: 5px;
+}
+
+.picker-20lcBA {
+    background: var(--3-background) !important;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+}
+
+.soundButton-2P2Ua2 {
+    background-color: var(--1-button-background);
+}
+.button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
+    background-color: var(--1-button-background);
+    color: var(--1-button-color);
+}
