@@ -197,3 +197,17 @@
     border-width: 1px;
     border-color: var(--2-outline);
 }
+.theme-dark #vc-spotify-player {
+    background: var(--3-background);
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+    margin: 5px;
+}
+.mentioned-Tre-dv {
+    background-color: var(--1-button-background);
+}
+.mentioned-Tre-dv:before {
+    background-color: var(--1-button-color);
+}
