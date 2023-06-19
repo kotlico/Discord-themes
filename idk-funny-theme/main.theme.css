@@ -334,7 +334,7 @@
 }
 
 .container-2RRFHK {
-    background-color: none;
+    background-color: transparent !important;
     backdrop-filter: blur(10px);
 }
 
