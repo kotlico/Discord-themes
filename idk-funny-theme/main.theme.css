@@ -294,3 +294,41 @@
 .iconContainer-21RCa3 {
     align-self: center;
 }
+
+.theme-dark .panel-2ZFCRb {
+    background: var(--3-background) !important;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+    margin: 5px;
+}
+
+.chat-2ZfjoI {
+    background-color: var(--1-background);
+}
+
+.searchResultsWrap-5RVOkx {
+    background: var(--2-background) !important;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+    margin: 5px;
+}
+
+.searchHeader-1r_ZSh {
+    background: var(--3-background) !important;
+}
+
+.searchResult-O9NDji {
+    background: var(--3-background) !important;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+}
+
+.highlight {
+    background: var(--1-button-background);
+}
