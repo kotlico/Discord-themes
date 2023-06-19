@@ -344,4 +344,5 @@
     border-style: solid;
     border-width: 1px;
     border-color: var(--2-outline);
+    padding: 15px;
 }
