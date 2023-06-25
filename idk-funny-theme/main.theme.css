@@ -346,3 +346,8 @@
     border-color: var(--2-outline);
     padding: 15px;
 }
+
+.backdrop-2ByYRN .withLayer-2VVmpp {
+    opacity: 1;
+    backdrop-filter: blur(15px);
+}
