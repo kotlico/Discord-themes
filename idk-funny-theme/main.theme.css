@@ -352,3 +352,34 @@
     backdrop-filter: blur(15px);
     background: #00000096 !important;
 }
+
+.listeningAlong-6YvYsc {
+    background: var(--3-background) !important;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+    margin: 5px;
+    width: auto;
+}
+
+.container-2cd8Mz {
+    background: var(--1-background);
+}
+
+.nowPlayingColumn-1eCBCN {
+    background: transparent;
+}
+
+.container-1oAagU {
+    background: transparent;
+}
+
+.scroller-hE2gWq {
+    background: var(--2-background) !important;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--2-outline);
+    margin: 5px;
+}
