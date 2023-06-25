@@ -347,7 +347,8 @@
     padding: 15px;
 }
 
-.backdrop-2ByYRN .withLayer-2VVmpp {
-    opacity: 1;
+.backdrop-2ByYRN.withLayer-2VVmpp {
+    opacity: 1 !important;
     backdrop-filter: blur(15px);
+    background: #00000096 !important;
 }
