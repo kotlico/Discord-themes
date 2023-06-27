@@ -10,7 +10,7 @@
     --2-fore: #627bad;
     --1-outline: #30363d;
     --2-outline: #262831;
-    --1-button-color: #86aaec;
+    --1-accent: #86aaec;
     --1-button-background: rgba(134, 170, 236, 0.15);
     --1-green: #90ceaa;
 }
@@ -70,7 +70,7 @@
     background-color: var(--1-background);
 }
 .communityInfoVisible-3zc5_s .communityInfo-3YsNIn {
-    color: var(--1-button-color);
+    color: var(--1-accent);
 }
 .communityInfoPill-2Mll66 {
     background: var(--1-background);
@@ -81,7 +81,7 @@
 }
 .botTagRegular-kpctgU {
     background: var(--1-button-background);
-    color: var(--1-button-color);
+    color: var(--1-accent);
 }
 .theme-dark .themed-Hp1KC_ {
     background: var(--1-background);
@@ -209,7 +209,7 @@
     background-color: var(--1-button-background);
 }
 .mentioned-Tre-dv:before {
-    background-color: var(--1-button-color);
+    background-color: var(--1-accent);
 }
 
 .container-1zzFcN {
@@ -234,13 +234,13 @@
 }
 .button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
     background-color: var(--1-button-background);
-    color: var(--1-button-color);
+    color: var(--1-accent);
 }
 .cozy-VmLDNB .timestamp-p1Df1m {
     color: var(--2-fore);
 }
 .clickable-ZD7xvu .icon-2xnN2Y {
-    color: var(--1-button-color);
+    color: var(--1-accent);
 }
 .activity-2EQDZv {
     color: var(--2-fore);
@@ -252,7 +252,7 @@
 
 .lookFilled-1H2Jvj.colorGreen-jIPCAS {
     color: var(--2-background);
-    background-color: var(--1-button-color);
+    background-color: var(--1-accent);
 }
 .loadingPopout-1tyQMM { 
     background: var(--3-background) !important;
@@ -402,4 +402,15 @@
 .keyboard-mode .hoverButtonGroup-2yZIzC:focus-within, :hover+.hoverButtonGroup-2yZIzC, :hover+.removeAttachmentButton-1iO1qS {
     backdrop-filter: blur(15px);
     background: #00000096 !important;
+}
+.mediaBarGrabber-FvJKJg, .mediaBarProgress-38I317, .mediaBarProgress-38I317:after, .mediaBarProgress-38I317:before {
+    background-color: var(--1-accent);
+}
+
+.barFill-3RgCsY {
+    background: var(--1-accent);
+}
+#vc-spotify-progress-bar>[class^=slider] [class^=grabber] {
+    background-color: var(--2-background);
+    border: var(--1-accent);
 }
