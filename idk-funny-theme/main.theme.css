@@ -411,6 +411,6 @@
     background: var(--1-accent);
 }
 #vc-spotify-progress-bar>[class^=slider] [class^=grabber] {
-    background-color: var(--2-background);
-    border: var(--1-accent);
+    background-color: var(--2-background) !important;
+    border-color: var(--1-accent) !important;
 }
