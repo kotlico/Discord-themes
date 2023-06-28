@@ -414,3 +414,36 @@
     background-color: var(--2-background) !important;
     border-color: var(--1-accent) !important;
 }
+
+.markup-eYLPri a {
+    color: var(--1-accent);
+}
+
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+    background-color: var(--1-accent);
+    color: var(--1-background);
+}
+
+.markup-eYLPri h1, .markup-eYLPri h2, .markup-eYLPri h3, .markup-eYLPri h4, .markup-eYLPri h5, .markup-eYLPri h6 {
+    color: var(--1-fore);
+}
+
+.count-62gVQ0 {
+    color: var(--2-fore);
+}
+
+.defaultColor-1GKx81 {
+    color: var(--1-fore);
+}
+
+.icon-2W8DHg {
+    color: var(--2-fore);
+}
+
+.name-28HaxV {
+    color: var(--2-fore);
+}
+
+.icon-2xnN2Y {
+    color: var(--1-accent);
+}
