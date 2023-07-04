@@ -447,3 +447,12 @@
 .icon-2xnN2Y {
     color: var(--1-accent);
 }
+
+.content-3spvdd {
+    background: var(--1-button-background);
+    color: var(--1-accent);
+}
+
+.divider-2rZFJK {
+    border-top: thin solid var(--1-button-background);
+}

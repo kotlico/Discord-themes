@@ -1,0 +1,22 @@
+@import url(https://raw.githubusercontent.com/longjohnpeter/Discord-themes/master/Modules/fleet.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+
+    --background: #1a1c1d;
+    --border: #3d3e3f;
+    --foreground: #e7e7e7;
+    --second-fore: #bababb;
+    --accent: #804fb3;
+}
+
+.chatContent-3KubbW {
+    background-image: url('https://invent.kde.org/teams/vdg/issues/uploads/da9721b506fbf1b3a6e67143e1b72e7e/ResampledImageNIGHTMODE.png');
+}
+.messagesWrapper-RpOMA3, .scrollerContent-2SW0kQ {
+    width: 700px;
+    margin: auto;
+    background: var(--background);
+    border: 1px solid var(--border);
+}
