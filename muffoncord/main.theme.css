@@ -20,3 +20,44 @@
     background: var(--background);
     border: 1px solid var(--border);
 }
+
+.zalgo-26OfGz.cozy-VmLDNB .header-2jRmjb {
+    display: flex;
+    flex-direction: column;
+}
+
+.scrollableContainer-15eg7h {
+    background: transparent;
+}
+
+.channelTextArea-1FufC0 {
+    margin-bottom: 0;
+    background-color: var(--background);
+    height: 100%;
+}
+
+.form-3gdLxP {
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+    height: 56px;
+    border-top: 1px solid var(--border);
+}
+
+.sansAttachButton-1ERHue {
+    padding-left: 0;
+    width: 720px;
+    margin: auto;
+}
+
+.channelTextArea-1VQBuV {
+    border-radius: 0;
+}
+
+.theme-dark .container-YkUktl {
+    background: var(--background);
+    border-top: 1px solid var(--border);
+}
+.container-YkUktl {
+    height: 56px;
+}
