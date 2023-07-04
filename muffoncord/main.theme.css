@@ -61,3 +61,14 @@
 .container-YkUktl {
     height: 56px;
 }
+
+.container-ZMc96U {
+    height: 45px;
+    --__header-bar-background: var(--background);
+    border-bottom: 1px solid var(--border);
+}
+.searchBar-3TnChZ {
+    border-bottom: 1px solid var(--border);
+    height: 45px;
+    box-shadow: none;
+}
