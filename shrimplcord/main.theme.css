@@ -23,3 +23,29 @@
     --gray1: #859289;
     --gray2: #9DA9A0;
 }
+.theme-dark .container-1NXEtd {
+    background: var(--bg_dim);
+}
+.modeSelected-3DmyhH .link-1_kTxV, .modeSelected-3DmyhH:hover .link-1_kTxV {
+    background: var(--bg0);
+    border: 1px solid var(--bg2);
+}
+.modeConnected-NrO4cP .name-28HaxV, .modeConnected-NrO4cP:hover .name-28HaxV, .modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH:hover .name-28HaxV, .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV, .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
+    color: var(--fg);
+}
+.link-1_kTxV {
+    padding: 5px 2px;
+}
+.iconContainer-21RCa3 {
+    display: none;
+}
+.chatContent-3KubbW {
+    margin: 6px;
+    background: var(--bg0);
+    border: 1px solid var(--bg2);
+    border-radius: 6px ;
+}
+
+.chat-2ZfjoI {
+    background-color: var(--bg_dim);
+}
