@@ -39,9 +39,29 @@
     margin: 6px;
     background: var(--bg);
     border: 1px solid var(--border);
-    border-radius: 6px ;
+    border-radius: 12px ;
 }
 
 .chat-2ZfjoI {
     background-color: var(--bg_dim);
+}
+
+.header-3OsQeK {
+    box-shadow: none;
+}
+
+.theme-dark .themed-Hp1KC_{
+    background: transparent;
+}
+
+.container-2o3qEW {
+    background: transparent;
+}
+
+.member-48YF_l, .members-3WRCEx {
+    background: transparent;
+}
+
+.content-1jQy2l:before {
+    display: none;
 }
