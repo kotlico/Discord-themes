@@ -1,11 +1,7 @@
 :root {
-    --bg_dim: #293136;
-    --bg0: #333C43;
-    --bg1: #3A464C;
-    --bg2: #434F55;
-    --bg3: #4D5960;
-    --bg4: #555F66;
-    --bg5: #5d6b66;
+    --bg_dim: #1E2327;
+    --bg: #2B3339;
+    --border: #5C6461;
     --bg_red: #5C3F4F;
     --bg_visual: #59464C;
     --bg_yellow: #55544A;
@@ -27,8 +23,8 @@
     background: var(--bg_dim);
 }
 .modeSelected-3DmyhH .link-1_kTxV, .modeSelected-3DmyhH:hover .link-1_kTxV {
-    background: var(--bg0);
-    border: 1px solid var(--bg2);
+    background: var(--bg);
+    border: 1px solid var(--border);
 }
 .modeConnected-NrO4cP .name-28HaxV, .modeConnected-NrO4cP:hover .name-28HaxV, .modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH:hover .name-28HaxV, .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV, .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
     color: var(--fg);
@@ -41,8 +37,8 @@
 }
 .chatContent-3KubbW {
     margin: 6px;
-    background: var(--bg0);
-    border: 1px solid var(--bg2);
+    background: var(--bg);
+    border: 1px solid var(--border);
     border-radius: 6px ;
 }
 
