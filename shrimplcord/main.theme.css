@@ -1,5 +1,6 @@
 :root {
     --bg: #2c3333;
+    --bg-dim: #232828;
     --clr: #95d5b2;
     --clr-dim: #84a98c;
     --clr-2: #e9f5db;
@@ -9,7 +10,7 @@
 }
 .modeSelected-3DmyhH .link-1_kTxV, .modeSelected-3DmyhH:hover .link-1_kTxV {
     background: var(--bg);
-    border: 1px solid var(clr);
+    border: 1px solid var(--clr);
 }
 .modeConnected-NrO4cP .name-28HaxV, .modeConnected-NrO4cP:hover .name-28HaxV, .modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH:hover .name-28HaxV, .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV, .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
     color: var(--clr);
@@ -21,9 +22,8 @@
     display: none;
 }
 .chatContent-3KubbW {
-    margin: 6px;
     background: var(--bg);
-    border: 1px solid var(clr);
+    border: 1px solid var(--clr);
     border-radius: 12px ;
 }
 
@@ -60,6 +60,28 @@
 
 .scrollableContainer-15eg7h {
     background: var(--bg);
-    border: 1px solid var(clr);
+    border: 1px solid var(--clr);
     border-radius: 2px ;
+}
+
+.sidebar-1tnWFu {
+    border: 1px solid var(--clr);
+}
+.theme-dark .container-YkUktl {
+    background: var(--clr);
+}
+.button-12Fmur {
+    color: var(--bg-dim);
+}
+.title-338goq {
+    color: var(--bg-dim);
+}
+.newMessagesBar-1hF-9G {
+    border-radius: 0;
+    box-shadow: none;
+    border-radius: 0;
+    background-color: var(--clr);
+}
+.barButtonBase-Sk2mdB {
+    color: var(--bg-dim);
 }
