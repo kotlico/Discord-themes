@@ -9,7 +9,7 @@
     background: var(--bg);
 }
 .modeSelected-3DmyhH .link-1_kTxV, .modeSelected-3DmyhH:hover .link-1_kTxV {
-    background: var(--bg);
+    background: var(--bg-dim);
     border: 1px solid var(--clr);
 }
 .modeConnected-NrO4cP .name-28HaxV, .modeConnected-NrO4cP:hover .name-28HaxV, .modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH:hover .name-28HaxV, .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV, .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
@@ -20,11 +20,6 @@
 }
 .iconContainer-21RCa3 {
     display: none;
-}
-.chatContent-3KubbW {
-    background: var(--bg);
-    border: 1px solid var(--clr);
-    border-radius: 12px ;
 }
 
 .chat-2ZfjoI {
@@ -84,4 +79,19 @@
 }
 .barButtonBase-Sk2mdB {
     color: var(--bg-dim);
+}
+
+.quickswitcher-pKcM9U {
+    background-color: var(--bg);
+    border-radius: 0;
+    border: 1px solid var(--clr);
+    padding: 5px;
+}
+.scroller-2qwVWY {
+    margin-right: 0;
+    background-color: var(--bg-dim);
+}
+.input-3r5zZY {
+    background-color: transparent;
+    border: 1px solid var(--clr);
 }
