@@ -65,3 +65,16 @@
 .content-1jQy2l:before {
     display: none;
 }
+
+.privateChannels-oVe7HL {
+    background: var(--bg_dim);
+}
+.theme-dark .scroller-WSmht3 {
+    background: transparent;
+}
+
+.scrollableContainer-15eg7h {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 2px ;
+}
