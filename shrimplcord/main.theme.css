@@ -1,33 +1,18 @@
 :root {
-    --bg_dim: #1E2327;
-    --bg: #2B3339;
-    --border: #5C6461;
-    --bg_red: #5C3F4F;
-    --bg_visual: #59464C;
-    --bg_yellow: #55544A;
-    --bg_green: #48584E;
-    --bg_blue: #3F5865;
-    --red: #E67E80;
-    --orange: #E69875;
-    --yellow: DBBC7F;
-    --green: #A7C080;
-    --blue: #7FBBB3;
-    --aqua: #83C092;
-    --purple: #D699B6;
-    --fg: #D3C6AA;
-    --gray0: #7A8478;
-    --gray1: #859289;
-    --gray2: #9DA9A0;
+    --bg: #2c3333;
+    --clr: #95d5b2;
+    --clr-dim: #84a98c;
+    --clr-2: #e9f5db;
 }
 .theme-dark .container-1NXEtd {
-    background: var(--bg_dim);
+    background: var(--bg);
 }
 .modeSelected-3DmyhH .link-1_kTxV, .modeSelected-3DmyhH:hover .link-1_kTxV {
     background: var(--bg);
-    border: 1px solid var(--border);
+    border: 1px solid var(clr);
 }
 .modeConnected-NrO4cP .name-28HaxV, .modeConnected-NrO4cP:hover .name-28HaxV, .modeSelected-3DmyhH .name-28HaxV, .modeSelected-3DmyhH:hover .name-28HaxV, .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV, .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
-    color: var(--fg);
+    color: var(--clr);
 }
 .link-1_kTxV {
     padding: 5px 2px;
@@ -38,12 +23,12 @@
 .chatContent-3KubbW {
     margin: 6px;
     background: var(--bg);
-    border: 1px solid var(--border);
+    border: 1px solid var(clr);
     border-radius: 12px ;
 }
 
 .chat-2ZfjoI {
-    background-color: var(--bg_dim);
+    background-color: var(--bg);
 }
 
 .header-3OsQeK {
@@ -67,7 +52,7 @@
 }
 
 .privateChannels-oVe7HL {
-    background: var(--bg_dim);
+    background: var(--bg);
 }
 .theme-dark .scroller-WSmht3 {
     background: transparent;
@@ -75,6 +60,6 @@
 
 .scrollableContainer-15eg7h {
     background: var(--bg);
-    border: 1px solid var(--border);
+    border: 1px solid var(clr);
     border-radius: 2px ;
 }
