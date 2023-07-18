@@ -114,3 +114,23 @@
 .cozy-VmLDNB .timestamp-p1Df1m {
     color: var(--clr-dim);
 }
+.clickable-ZD7xvu .icon-2xnN2Y {
+    color: var(--clr);
+}
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
+    background-color: var(--bg-dim);
+    border-radius: 0;
+    box-shadow: none;
+}
+.strikethrough-2Kl6HF {
+    color: var(--bg);
+}
+.theme-dark .progressBarContainer-1efroK {
+    background-color: var(--bg-dim);
+}
+.progressBar-2yl2pi {
+    background: var(--clr);
+}
+.bar-H6j3_Q {
+    border-radius: 0;
+}
