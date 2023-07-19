@@ -148,3 +148,26 @@
     border-radius: 0;
     background-color: var(--clr);
 }
+.unreadPillCapStroke-1nE1Q8 {
+    fill: transparent;
+}
+
+.unreadPill-3nEWYM {
+    background-color: var(--bg-dim);
+}
+.endCap-2wHt31 {
+    color: var(--clr);
+}
+.isUnread-3Lojb-, .custom-theme-background .isUnread-3Lojb- {
+    border-color: var(--bg-dim);
+}
+.mentioned-Tre-dv:before {
+    background-color: var(--clr);
+}
+.mentioned-Tre-dv {
+    background-color: var(--bg-dim);
+    border: 1px solid var(--clr);
+}
+.message-2CShn3.mentioned-Tre-dv.selected-2LX7Jy, .mouse-mode.full-motion .mentioned-Tre-dv:hover {
+    background-color: var(--bg-dim);
+}
