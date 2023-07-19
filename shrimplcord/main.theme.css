@@ -1,9 +1,9 @@
 :root {
-    --bg: #2c3333;
-    --bg-dim: #232828;
-    --clr: #95d5b2;
-    --clr-dim: #84a98c;
-    --clr-2: #e9f5db;
+    --bg: #302a2a;
+    --bg-dim: #121011;
+    --clr: #f58383;
+    --clr-dim: #e7d5d1;
+    --clr-2: #e6e6e6;
 }
 .theme-dark .container-1NXEtd {
     background: var(--bg);
@@ -118,7 +118,7 @@
     color: var(--clr);
 }
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
-    background-color: var(--bg-dim);
+    background-color: var(--bg);
     border-radius: 0;
     box-shadow: none;
 }
@@ -143,4 +143,8 @@
 }
 .tutorialContainer-2jwoiB {
     background: var(--bg);
+}
+.item-2LIpTv {
+    border-radius: 0;
+    background-color: var(--clr);
 }
