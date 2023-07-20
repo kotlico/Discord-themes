@@ -171,3 +171,14 @@
 .message-2CShn3.mentioned-Tre-dv.selected-2LX7Jy, .mouse-mode.full-motion .mentioned-Tre-dv:hover {
     background-color: var(--bg-dim);
 }
+.contentRegionScroller-2_GT_N {
+    background-color: var(--bg);
+}
+.sidebarRegionScroller-FXiQOh {
+    background: var(--bg);
+    border: 1px solid var(--clr);
+}
+.sidebar-nqHbhN {
+    background: var(--bg-dim);
+    border: 1px solid var(--clr);
+}
