@@ -35,7 +35,10 @@
 .iconContainer-21RCa3 {
     display: none;
 }
-
+.selected-26oxtA {
+    background: var(--act-bg);
+    border: 1px solid var(--act-brd);
+}
 .chat-2ZfjoI {
     background-color: var(--bg);
 }
@@ -196,5 +199,3 @@
     background: var(--bg-dim);
     border: 1px solid var(--clr);
 }
-background: #62585670;
-    border: 1px solid #948683;
