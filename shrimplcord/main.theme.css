@@ -8,7 +8,7 @@
     --act-brd: #948683;
 }
 .theme-dark {
-    --background-modifier-accent: var(var(--bg));
+    --background-modifier-accent: var(var(--bg)) !important;
 }
 .theme-dark .container-1NXEtd {
     background: var(--bg);
