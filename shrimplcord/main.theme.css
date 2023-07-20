@@ -7,6 +7,9 @@
     --act-bg: rgba(98, 88, 86, 0.5);
     --act-brd: #948683;
 }
+.theme-dark {
+    --background-modifier-accent: var(var(--bg));
+}
 .theme-dark .container-1NXEtd {
     background: var(--bg);
 }
