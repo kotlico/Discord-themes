@@ -202,3 +202,33 @@
     background: var(--bg-dim);
     border: 1px solid var(--clr);
 }
+.theme-dark #vc-spotify-player {
+    background-color: var(--bg);
+}
+.vc-spotify-button {
+    color: var(--clr);
+}
+.theme-dark .bar-2H7Q9u, .theme-dark .markDash-1ATsxA {
+    background: var(--bg-dim);
+}
+.bar-2H7Q9u {
+    border-radius: 0;
+}
+.barFill-3RgCsY {
+    background: var(--clr);
+}
+#vc-spotify-progress-bar>[class^=slider] [class^=grabber] {
+    display: none;
+}
+.interactive-iyXY_x {
+    color: var(--act-brd);
+}
+.name-28HaxV {
+    color: var(--act-brd);
+}
+.actionIcon-2sw4Sl {
+    color: var(--act-brd);
+}
+.container-q97qHp {
+    color: var(--act-brd);
+}
