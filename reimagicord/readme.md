@@ -1,0 +1,1 @@
+i am just coming up with interesting ideas and getting them there but without magic there tho

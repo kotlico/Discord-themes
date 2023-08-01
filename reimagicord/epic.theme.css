@@ -1,0 +1,34 @@
+.animatedContainer-2laTjx, .bannerImage-ubW8K- {
+    border-radius: 10px 0 0 0;
+}
+.container-1-ERn5 {
+    background: #2f3136;
+}
+.wrapper-1_HaEi {
+    background-color: #2f3136;
+}
+
+.theme-dark .progressBarContainer-1efroK {
+    background-color: var(--bg-overlay-3,var(--background-secondary));
+}
+.progressBar-2yl2pi {
+    background: linear-gradient(90deg,#3ba55c,#62c781);
+}
+.theme-dark .container-YkUktl {
+    background: #292b2f;
+}
+.header-3OsQeK {
+    box-shadow: none !important;
+    background: #2f3136;
+}
+.container-2giAcK:after {
+    box-shadow: var(--elevation-low);
+    border-bottom: 1px solid transparent;
+    left: 0;
+}
+.containerWithMargin-1CVXAM {
+    margin-bottom: 6px;
+}
+.sectionDivider-189lqb {
+    margin-left: 0;
+}
