@@ -19,7 +19,7 @@
 }
 .header-3OsQeK {
     box-shadow: none !important;
-    background: #2f3136;
+    background: var(--bg-overlay-2,var(--__header-bar-background));
 }
 .container-2giAcK:after {
     box-shadow: var(--elevation-low);
@@ -31,4 +31,10 @@
 }
 .sectionDivider-189lqb {
     margin-left: 0;
+}
+.scroller-3X7KbA {
+    background: #202225;
+}
+.link-1_kTxV {
+    border-radius: 8px;
 }
