@@ -9,7 +9,7 @@
 }
 
 .theme-dark .progressBarContainer-1efroK {
-    background-color: var(--bg-overlay-3,var(--background-secondary));
+    background-color: var(--background-tertiary);
 }
 .progressBar-2yl2pi {
     background: linear-gradient(90deg,#3ba55c,#62c781);
@@ -19,7 +19,7 @@
 }
 .header-3OsQeK {
     box-shadow: none !important;
-    background: var(--bg-overlay-2,var(--__header-bar-background));
+    background: var(--background-primary);
 }
 .container-2giAcK:after {
     box-shadow: var(--elevation-low);
@@ -38,3 +38,16 @@
 .link-1_kTxV {
     border-radius: 8px;
 }
+.link-1_kTxV {
+    padding: 7px 8px;
+}
+.container-32HW5s {
+    border-radius: 8px;
+}
+.privateChannels-oVe7HL {
+    background: var(--background-primary);
+}
+.icon-2xnN2Y {
+    color: #a3a6aa;
+}
+
