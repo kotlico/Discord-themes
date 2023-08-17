@@ -13,6 +13,8 @@
     --1-accent: #86aaec;
     --1-button-background: rgba(134, 170, 236, 0.15);
     --1-green: #90ceaa;
+    --div-radius: 8px;
+    --div-margin: 3px;
 }
 
 * {font-family: 'Space Mono', monospace !important;}
@@ -28,7 +30,9 @@
 }
 
 .sidebar-1tnWFu {
-    background: var(--2-background);
+    background: var(--1-background);
+    margin: var(--div-margin);
+    border-radius: var(--div-radius);
 }
 .panels-3wFtMD {
     background: transparent;
@@ -280,7 +284,7 @@
 }
 
 .profileBadges-2pItdR {
-    background: var(--3-background) !important;
+    background: var(--3-background) !important;.chat-2ZfjoI
     border-radius: 8px;
     border-style: solid;
     border-width: 1px;
@@ -306,6 +310,8 @@
 
 .chat-2ZfjoI {
     background-color: var(--1-background);
+    margin: var(--div-margin);
+    border-radius: var(--div-radius);
 }
 
 .searchResultsWrap-5RVOkx {
@@ -455,4 +461,7 @@
 
 .divider-2rZFJK {
     border-top: thin solid var(--1-button-background);
+}
+.content-1SgpWY {
+    background-color: var(--2-background);
 }
