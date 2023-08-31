@@ -39,8 +39,7 @@
 }
 .theme-dark .container-YkUktl {
     background: var(--3-background);
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
+    border-radius: 8px;
 }
 .channelTextArea-1FufC0 {
     background-color: transparent;
@@ -123,7 +122,7 @@
     background: var(--3-background);
 }
 .theme-dark .scroller-WSmht3 {
-    background: var(--2-background);
+    background: var(--1-background);
 }
 .menu-2TXYjN {
     box-shadow: none;
@@ -245,6 +244,9 @@
 }
 .clickable-ZD7xvu .icon-2xnN2Y {
     color: var(--1-accent);
+    background: var(--1-button-background);
+    padding: 2px;
+    border-radius: 50px;
 }
 .activity-2EQDZv {
     color: var(--2-fore);
@@ -284,7 +286,9 @@
 }
 
 .profileBadges-2pItdR {
-    background: var(--3-background) !important;.chat-2ZfjoI
+    background: var(--3-background) !important;
+}
+.chat-2ZfjoI {
     border-radius: 8px;
     border-style: solid;
     border-width: 1px;
@@ -464,4 +468,13 @@
 }
 .content-1SgpWY {
     background-color: var(--2-background);
+}
+
+.winButton-3UMjdg {
+    color: var(--2-fore);
+}
+
+.winButtonClose-3Q8ZH5:hover {
+    color: var(--1-accent);
+    background-color: var(--1-button-background);
 }

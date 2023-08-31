@@ -6,6 +6,12 @@
     .sidebar-1tnWFu:hover {
         width: 240px;
     }
+    .sidebar-1tnWFu:hover .closeIcon-1NwtbI, .favoriteIcon-3ybTi7 {
+        display: flex;
+    }
+    .closeIcon-1NwtbI, .favoriteIcon-3ybTi7 {
+        display: none;
+    }
     .members-3WRCEx {
         width: 72px;
         transition: width 1s;
