@@ -47,10 +47,6 @@
 
 .scrollableContainer-15eg7h {
     background: var(--3-background);
-    border-bottom-left-radius: 50px;
-    border-top-left-radius: 50px;
-    border-bottom-right-radius: 8px;
-    border-top-right-radius: 8px;
     border-width: 1px;
     border-color: var(--1-outline);
     border-style: solid;
@@ -477,4 +473,25 @@
 .winButtonClose-3Q8ZH5:hover {
     color: var(--1-accent);
     background-color: var(--1-button-background);
+}
+.chat-9g_3Xj {
+    background: var(--1-background);
+    margin: var(--div-margin);
+    border-radius: var(--div-radius);
+}
+.chatContent-2O4SXb {
+    background: transparent;
+}
+.theme-dark .form-3qe0Ni:before {
+    display: none;
+}
+.channelTextArea-1deLlK {
+    background-color: transparent;
+}
+.theme-dark .container-1CH86i {
+    background: var(--1-background);
+    border-width: 1px;
+    border-color: var(--2-outline);
+    border-style: solid;
+    border-radius: 8px;
 }
