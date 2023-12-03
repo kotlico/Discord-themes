@@ -28,3 +28,12 @@
 .markup_a7e664 {
     color: var(--1-fore);
 }
+.theme-dark .container_ca50b9 {
+    background: var(--2-background);
+}
+.theme-dark .form__13a2c:before {
+    display: none;
+}
+.themedBackground__6b1b6 {
+    background: var(--1-button-background);
+}
