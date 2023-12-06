@@ -37,3 +37,24 @@
 .themedBackground__6b1b6 {
     background: var(--1-button-background);
 }
+.theme-dark .container__590e2 {
+    background: var(--2-background);
+}
+.privateChannels__93473 {
+    background: var(--2-background);
+}
+.searchBar_e4ea2a {
+    box-shadow: none;
+}
+.theme-dark .themed_b152d4 {
+    background: var(--1-background);
+}
+.container__11d72 {
+    --__header-bar-background: var(var(--1-background))
+}
+.members__9f47b {
+    background: var(--1-background);
+}
+.member_b44d5d {
+    background: var(--2-background);
+}
