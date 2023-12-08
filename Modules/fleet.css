@@ -1,3 +1,5 @@
+/** Horizontal Server list author: Gibbu#1211 */
+
 :root {
     --server-size: var(--HSL-server-icon-size, var(--HSL-size, 35px));
     --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 10px));
