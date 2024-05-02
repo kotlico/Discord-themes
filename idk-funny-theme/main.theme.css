@@ -38,6 +38,23 @@
     border-radius: 6px;
 }
 
+.privateChannels__9b518 {
+    background: var(--3-background);
+    margin: 3px;
+    border: 1px solid var(--1-outline);
+    border-radius: 6px;
+}
+.theme-dark #vc-spotify-player {
+    background: var(--3-background);
+    margin: 3px;
+    border: 1px solid var(--1-outline);
+    border-radius: 6px;
+}
+
+.sidebar_e031be {
+    background: var(--1-background);
+}
+
 .panels__58331 {
     background-color: var(--1-background);
 }
