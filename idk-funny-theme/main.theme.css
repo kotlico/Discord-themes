@@ -1,4 +1,4 @@
-@import url(https://raw.githubusercontent.com/longjohnpeter/Discord-themes/master/Modules/fleet.css);
+/** @import url(https://raw.githubusercontent.com/longjohnpeter/Discord-themes/master/Modules/fleet.css); **/
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
@@ -19,7 +19,34 @@
 
 * {font-family: 'Space Mono', monospace !important;}
 
-.chatContent__5dca8 {
+.theme-dark .scroller__89969 {
+    background: transparent !important;
+}
+
+.privateChannels__9b518 {
+    background: var(--1-background);
+}
+
+.searchBar__621ec {
+    box-shadow: none;
+}
+
+.theme-dark .container_debb33 {
+    background: var(--3-background);
+    margin: 3px;
+    border: 1px solid var(--1-outline);
+    border-radius: 6px;
+}
+
+.panels__58331 {
+    background-color: var(--1-background);
+}
+
+.themedBackground__3a4c0 {
+    background: var(--3-background);
+}
+
+.chatContent_f087cb {
     background: var(--1-background);
 }
 .theme-dark .scroller__4b984 {
@@ -47,7 +74,7 @@
     box-shadow: none;
 }
 .theme-dark .themed_b152d4 {
-    background: var(--1-background);
+    background: var(--2-background);
 }
 .container__11d72 {
     --__header-bar-background: var(var(--1-background))
