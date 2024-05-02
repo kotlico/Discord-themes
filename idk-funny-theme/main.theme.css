@@ -34,20 +34,17 @@
 .theme-dark .container_debb33 {
     background: var(--3-background);
     margin: 3px;
-    border: 1px solid var(--1-outline);
     border-radius: 6px;
 }
 
 .privateChannels__9b518 {
     background: var(--3-background);
     margin: 3px;
-    border: 1px solid var(--1-outline);
     border-radius: 6px;
 }
 .theme-dark #vc-spotify-player {
     background: var(--3-background);
     margin: 3px;
-    border: 1px solid var(--1-outline);
     border-radius: 6px;
 }
 
@@ -62,6 +59,18 @@
 .themedBackground__3a4c0 {
     background: var(--3-background);
 }
+.wrapper__216eb {
+    background-color: var(--1-background);
+}
+
+.childWrapperNoHoverBg__7e8f1 {
+    background-color: var(--1-button-background);
+}
+
+.expandedFolderBackground_b1385f {
+    background-color: var(--1-button-background);
+}
+
 
 .chatContent_f087cb {
     background: var(--1-background);
