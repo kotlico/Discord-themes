@@ -48,12 +48,27 @@
     border-radius: 6px;
 }
 
+.members__573eb {
+    background: var(--3-background);
+    margin: 3px;
+    border-radius: 6px;
+}
+
 .sidebar_e031be {
     background: var(--1-background);
 }
 
 .panels__58331 {
     background-color: var(--1-background);
+}
+
+.container_f79ab4 {
+    background: var(--1-background);
+}
+
+.wrapper__8436d:hover .childWrapper_a6ce15, .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15 {
+    color: var(--1-background);
+    background-color: var(--1-accent);
 }
 
 .themedBackground__3a4c0 {
@@ -71,10 +86,55 @@
     background-color: var(--1-button-background);
 }
 
-
 .chatContent_f087cb {
     background: var(--1-background);
 }
+
+.theme-dark .themed_b152d4 {
+    background: var(--1-background);
+}
+
+.theme-dark .form_d8a4a1:before, .theme-dark .form_d8a4a1:after {
+    background: none;
+}
+
+.theme-dark .children_cde9af:after {
+    background: none;
+}
+
+.searchBar__5a20a {
+    background: var(--1-button-background);
+    border-radius: 6px;
+}
+
+.selected__37292 {
+    background: var(--1-button-background);
+}
+
+.circleIconButton__05cf2 {
+    color: var(--1-green);
+    background-color: var(--2-background);
+}
+
+.content__01e65:before {
+    box-shadow: none;
+}
+
+.searchBar__621ec .searchBarComponent__8f95f {
+    background: var(--1-button-background);
+    border-radius: 6px;
+}
+
+.theme-dark .container__7e23c {
+    background: var(--3-background);
+    margin: 3px;
+    border-radius: 6px;
+}
+
+#vc-spotify-player {
+    border-bottom: none;
+}
+
 .theme-dark .scroller__4b984 {
     background: var(--2-background);
 }
