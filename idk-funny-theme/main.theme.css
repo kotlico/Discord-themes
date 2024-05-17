@@ -71,9 +71,49 @@
     background-color: var(--1-accent);
 }
 
+.wrapper__53064 {
+    color: var(--1-accent);
+    background: var(--1-button-background);
+}
+
+.cozy_f5c119 .timestamp_c79dd2 {
+    color: var(--2-fore);
+}
+
+.activity_bafb94 {
+    color: var(--2-fore);
+}
+
+.botTagRegular_fc4b4a {
+    background: var(--1-button-background);
+    color: var(--1-accent);
+}
+
+.username__0b0e7 {
+    color: var(--1-accent);
+}
+
+.markup_a7e664 a {
+    color: var(--1-accent);
+}
+
+.embedFull__14919 {
+    background: var(--3-background);
+}
+
+.item_f9d377 {
+    background-color: var(--1-accent);
+}
+
+.ownerIcon_bd8e7d {
+    color: var(--1-accent);
+    margin-left: auto;
+}
+
 .themedBackground__3a4c0 {
     background: var(--3-background);
 }
+
 .wrapper__216eb {
     background-color: var(--1-background);
 }
@@ -129,6 +169,26 @@
     background: var(--3-background);
     margin: 3px;
     border-radius: 6px;
+}
+
+.modeSelected__473f1 .link_ddbb36, .modeSelected__473f1:hover .link_ddbb36 {
+    background: var(--1-button-background);
+}
+
+.actionIcon_b149a2 {
+    color: var(--1-accent);
+}
+
+.interactiveSelected__689f0 {
+    color: var(--1-accent);
+}
+
+.modeUnreadImportant__35358 .icon__67ab4, .modeUnreadImportant__35358:hover .icon__67ab4, .modeSelected__473f1 .icon__67ab4, .modeSelected__473f1:hover .icon__67ab4 {
+    color: var(--2-fore);
+}
+
+.modeSelected__473f1 .name__4eb92, .modeSelected__473f1:hover .name__4eb92, .modeConnected__52a8f .name__4eb92, .modeConnected__52a8f:hover .name__4eb92, .modeUnreadImportant__35358 .name__4eb92, .modeUnreadImportant__35358:hover .name__4eb92 {
+    color: var(--1-accent);
 }
 
 #vc-spotify-player {
